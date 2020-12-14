@@ -1,3 +1,3 @@
 # stale-bigquery
 
-Find and list tables in Google Bigquery that haven't been modified
+Find and list tables in Google Bigquery that haven't been modified recently.

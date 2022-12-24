@@ -19,3 +19,4 @@ requests==2.25.0
 rsa==4.7
 six==1.15.0
 urllib3==1.26.5
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
